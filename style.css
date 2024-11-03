@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+    background-color: rgb(9, 9, 9);
+}
+.calculator{
+    width: 1150px;
+    height: 1000px;
+    padding: 20px 20px;
+    border: 5px solid black;
+    background-color: rgb(27, 245, 245);
+}
+input {
+    font-size: 87px;
+}
+.p {
+    background-color: orange;
+}
+.buttons{
+    margin-top: 40px;
+}
+.opo {
+    width: 550px;
+    background-color: orange;
+}
+.black {
+    background-color: black;
+    color: white;
+}
+button{
+    margin: 10px;
+    width: 22%;
+    height: 150px;
+    font-size: 92px;
+    cursor: pointer;
+    border-radius: 20%;
+}
